@@ -2,6 +2,7 @@ body{
 	background-color: #777;
 	font-size: 18px;
 	font-family: arial;
+	width: 960px;
 }
 
 .light {
@@ -15,13 +16,12 @@ body{
 	margin-left: 100px;
 	text-align: center;
 	padding: 25px;
-	width: 960px;
 
 }
 
 #section {
 	padding: 20px;
-	width: 520px;
+	width: 495px;
 	height: 200px;
 	margin-bottom: 10px;
 	margin-left: 100px;
@@ -62,7 +62,6 @@ body{
 #footer{
 	clear: both;
 	text-align: center;
-	width: 960px;
 	margin-top: 10px;
 	padding: 25px;
 	margin-left: 100px;
